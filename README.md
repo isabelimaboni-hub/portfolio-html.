@@ -63,6 +63,10 @@ required></textarea>
 </p>
 </form>
 </section>
+    </main>
+<footer>
+<small>&copy; 2025 Maria Silva. Todos os direitos reservados.</small>
+</footer>
 <section id="sobre">
 <h2>Sobre</h2>
 <figure>
