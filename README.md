@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Portfólio de Maria Silva</title>
+<title>Portfólio da Toyota</title>
 <meta name="description" content="Portfólio simples feito em HTML puro.">
 </head>
 <body>
 <header>
-<h1>Portfólio de Maria Silva</h1>
+<h1>Portfólio da Toyota</h1>
 <p>Estudante de desenvolvimento web — HTML, CSS e JavaScript.</p>
 <nav aria-label="Navegação principal">
 <ul>
